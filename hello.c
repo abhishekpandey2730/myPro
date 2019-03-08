@@ -1,5 +1,5 @@
 LIST OF IDEAS
-
+gfdfdgfd
 1. app to manage ticketing of public transportation and to help users to travel from one place to another without using personal transport
 2. app to manage financials for gig economy and to handle donations also if required and subscription also.
 3. corporate travel management app-------------tripactions.com, travelperk.com
